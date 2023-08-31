@@ -1,0 +1,12 @@
+#main-heading{
+    color: rgb(0,122,2,3);
+}
+.highlight{
+    background-color: peachpuff;
+}
+img.detective-img{
+    border: solid black 5px;
+    width: 50vw;
+    height: 60vh;
+    justify-items: center;
+}
